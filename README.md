@@ -3,12 +3,6 @@
 Code the Figma template into Flutter code.
 
 
-
----
-
-
-
-
 ## Screenshots
 
 <p>
@@ -17,7 +11,7 @@ Code the Figma template into Flutter code.
   <img src="assets/screenshots/Screenshot_3.png" width=200 height=400 alt="screenshot3">
 </p>
 
----
+
 ## Figma Template
 
   <img src="assets/screenshots/figma_template.png" width=400 height=400 alt="Figma Template">
